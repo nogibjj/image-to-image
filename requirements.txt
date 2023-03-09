@@ -42,5 +42,6 @@ tensorflow
 git+https://github.com/openai/whisper.git 
 #yake
 yake==0.4.8
+diffusers == 0.12.1
 
 
